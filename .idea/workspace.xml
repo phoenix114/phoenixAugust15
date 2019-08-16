@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee98e5c-ce04-4423-8800-acc350d1e7b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/TrialClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/TrialClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ee98e5c-ce04-4423-8800-acc350d1e7b9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/steps/TrialClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -231,6 +228,7 @@
         <item itemvalue="JUnit.Runner" />
         <item itemvalue="JUnit.Runner" />
         <item itemvalue="JUnit.Runner" />
+        <item itemvalue="JUnit.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565929429841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;bilal's test3 code&quot;">
+      <created>1565932943704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565932943704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;bilal's test3&amp;4 code&quot;">
+      <created>1565933042100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565933042100</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -293,7 +305,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;bilal's first code&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;bilal's first code&quot;" />
+    <MESSAGE value="&quot;bilal's test3 code&quot;" />
+    <MESSAGE value="&quot;bilal's test3&amp;4 code&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;bilal's test3&amp;4 code&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/SchoolTeacherAdd_steps.java">
@@ -326,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/TrialClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
