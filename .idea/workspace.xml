@@ -30,8 +30,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/steps/TrialClass.java">
           <provider selected="true" editor-type-id="text-editor">
+
             <state relative-caret-position="240">
               <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+
+            <state relative-caret-position="360">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+
             </state>
           </provider>
         </entry>
@@ -250,6 +255,7 @@
       <option name="project" value="LOCAL" />
       <updated>1565929429841</updated>
     </task>
+
     <task id="LOCAL-00002" summary="&quot;bilal's test3 code&quot;">
       <created>1565932943704</created>
       <option name="number" value="00002" />
@@ -263,6 +269,21 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1565933042100</updated>
+
+    <task id="LOCAL-00002" summary="&quot;bilal's test5 code&quot;">
+      <created>1565934321352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565934321352</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;bilal's test6 code&quot;">
+      <created>1565934728340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565934728340</updated>
+
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
@@ -274,6 +295,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -305,9 +327,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;bilal's first code&quot;" />
+
     <MESSAGE value="&quot;bilal's test3 code&quot;" />
     <MESSAGE value="&quot;bilal's test3&amp;4 code&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;bilal's test3&amp;4 code&quot;" />
+
+    <MESSAGE value="&quot;bilal's test5 code&quot;" />
+    <MESSAGE value="&quot;bilal's test6 code&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;bilal's test6 code&quot;" />
+
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/SchoolTeacherAdd_steps.java">
@@ -340,8 +368,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/TrialClass.java">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="240">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+
         </state>
       </provider>
     </entry>
