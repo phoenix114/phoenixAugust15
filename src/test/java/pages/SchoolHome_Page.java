@@ -22,4 +22,7 @@ public class SchoolHome_Page {
 
     @FindBy(xpath = "(//a[@href ='all-students.html'])")
     public WebElement allStudents;
+
+    @FindBy(linkText = "Add Student")
+    public WebElement addStudent;
 }

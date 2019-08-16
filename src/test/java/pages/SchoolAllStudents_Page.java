@@ -20,6 +20,20 @@ public class SchoolAllStudents_Page {
 
     }
 
+
+    @FindBy (xpath = "//div[@class='dropdown profile-action']")
+    public List<WebElement> threeDotsOnTheAddedStudent;
+
+    @FindBy (xpath = "//a[@data-target='#delete_employee']")
+    public List<WebElement> allTheDeleteOptions;
+
+    @FindBy (xpath = "//button[.='Delete']")
+    public WebElement deleteButton;
+
+
+
+
+
     @FindBy(xpath= "(//div/h4/a[.='mnwr']/../../div)[2]")
     public WebElement firstStudentToggle;
 

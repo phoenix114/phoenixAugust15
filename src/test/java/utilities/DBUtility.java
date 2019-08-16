@@ -13,21 +13,20 @@ public class DBUtility {
     private static ResultSet resultSet;
 
 
-    public static void openConnection(DBType type) throws SQLException {
-        switch (type){
-            case ORACLE:
-                connection = DriverManager.getConnection(Config.getProperty("oracle.url"),
-                Config.getProperty("oracle.username"),
-                        Config.getProperty("oracle.password"));
+    public static void openConnection(String dbType) throws SQLException {
+        switch (dbType){
+            case "Oracle":
+                connection = DriverManager.getConnection(Config.getProperty("oracleUrl"),
+                Config.getProperty("oracleUsername"),
+                        Config.getProperty("oraclePassword"));
             break;
-            case MYSQL:
-                break;
+
                 default:
                     connection = null;
         }
     }
 
-    public static List<Map<String, Object>> executeSQLQuery(String query) throws SQLException {
+    public static List<Map<String, Object>> executeSQLquery(String query) throws SQLException {
         statement = connection.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
         resultSet = statement.executeQuery(query);
 
